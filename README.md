@@ -45,5 +45,5 @@ public class ImageScrollerView extends LinearLayout {
 实现效果如下：
 ImageView实现图片动画：
 ![imageview](https://github.com/sunshinewei/Scroller/tree/master/images/scrollerImage.gif)
-TextView实现内容移动，通过<code>scrollBy和scrollTo方法</code>
+<p>TextView实现内容移动，通过<code>scrollBy和scrollTo方法</code></p>
 ![text](https://github.com/sunshinewei/Scroller/tree/master/images/scroller.gif)
